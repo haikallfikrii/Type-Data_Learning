@@ -22,3 +22,20 @@ const buah = ["nanas", "jeruk", "apel", "khuldi"];
 const nilai = [11, 12, 13, 14, 15];
 const arr = ["Nanas", 91, true];
 console.log(arr);
+
+//OBJECT
+const user = {
+  name: "Fikri",
+  gender: "Male",
+  age: 21,
+  favorite_foods: ["nanas", "jeruk", "apel", "khuldi"],
+  family: {
+    father: "Akang",
+    mither: "Nyai",
+  },
+};
+//user.age = 28;
+//console.log(user["age"]);
+
+arr.push(user);
+console.log(arr);
