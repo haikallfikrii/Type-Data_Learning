@@ -7,7 +7,7 @@ console.log(firstName + " " + lastName);
 console.log(`${firstName} ${lastName}`); */
 
 //NUMBER
-let age = 21;
+/*let age = 21;
 let height = 162.4;
 console.log(typeof age, typeof height);
 
@@ -31,11 +31,18 @@ const user = {
   favorite_foods: ["nanas", "jeruk", "apel", "khuldi"],
   family: {
     father: "Akang",
-    mither: "Nyai",
+    mother: "Nyai",
   },
 };
 //user.age = 28;
 //console.log(user["age"]);
 
 arr.push(user);
-console.log(arr);
+console.log(arr);*/
+
+//OPERATOR
+//ASSIGNMENT OPERATOR
+let name = "Fikri Haikal";
+
+let age = 21;
+console.log(age);
